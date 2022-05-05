@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+**/**/best_model_keras
+**/**/logs
+**/1*
+**/__pycache__
 
 # C extensions
 *.so
